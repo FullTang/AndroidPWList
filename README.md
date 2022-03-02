@@ -16,4 +16,4 @@ The following optimizations were done to the list:
 * Removed non-ASCII characters
 * Combined / Deduplicated
 * Length between 6 - 16 characters
-* Alphanumeric passwords only
+* Alphanumeric passwords only (PIN codes / numerical only passwords removed)
