@@ -16,7 +16,7 @@ The following optimizations were done to the list:
 * Removed non-ASCII characters
 * Combined / Deduplicated
 * Length between 6 - 16 characters
-* Alphanumeric passwords only (PIN codes / numerical only passwords removed)
+* Alphanumeric/symbol passwords only (PIN codes / numerical only passwords removed)
 
 Use the following Google Drive link to download the list. <br />
 https://drive.google.com/file/d/1hCsZ5zxeWs7-a3It-MAhmW7u0rRNICrU/view?usp=sharing
