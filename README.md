@@ -18,10 +18,10 @@ The following optimizations were done to the list:
 * Length between 6 - 16 characters
 * Alphanumeric passwords only (PIN codes / numerical only passwords removed)
 
-Use the following Google Drive link to download the list.
+Use the following Google Drive link to download the list. <br />
 https://drive.google.com/file/d/1hCsZ5zxeWs7-a3It-MAhmW7u0rRNICrU/view?usp=sharing
 
-Name: Android Passwords.7z
-Size: 394497443 bytes (376 MiB)
-SHA256: 1BE24FC839132099201CD64FF4E63FAB668E16D5D9197F0A9F8C722092227D1E
-SHA1: B34D44F1A388F07A8FC419B3BDD246CE25406753
+Name: Android Passwords.7z <br />
+Size: 394497443 bytes (376 MiB) <br />
+SHA256: 1BE24FC839132099201CD64FF4E63FAB668E16D5D9197F0A9F8C722092227D1E <br />
+SHA1: B34D44F1A388F07A8FC419B3BDD246CE25406753 <br />
