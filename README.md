@@ -10,7 +10,7 @@ The following optimizations and improvements were made on top of Verson 1:
 * Added `real_english.dic` from Weakpass.
 * Added several smaller wordlists that used popular passwords
 * Better sorting of the passwords by popularity with more common passwords at the top
-* Converted characters that escaped the HTML converstion back to their ASCII equivalents (Thanks to @tycho for pointing this out.)
+* Converted characters that escaped HTML back to their ASCII equivalents (Thanks to @tycho for pointing this out.)
 * Better deduplication / line endings normalization (Thanks to @tycho and @hops for pointers with this.)
 
 Use the following Google Drive link to download the list. <br />
