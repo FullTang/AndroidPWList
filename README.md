@@ -3,6 +3,8 @@
 
 A small (>1GB) password list optimized for use against Android device passwords.
 
+---
+
 ## Version 2
 The following optimizations and improvements were made on top of Verson 1:
 
