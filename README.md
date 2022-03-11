@@ -8,8 +8,8 @@ A small (>1GB) password list optimized for use against Android device passwords.
 The following optimizations and improvements were made on top of Verson 1:
 
 * Added `real_english.dic` from Weakpass.
-* Added several smaller wordlists that used popular passwords
-* Better sorting of the passwords by popularity with more common passwords at the top
+* Added several smaller wordlists that contain commonly used passwords
+* Better sorting of passwords by popularity with more common passwords at the top
 * Converted characters that escaped HTML back to their ASCII equivalents (Thanks to @tycho for pointing this out.)
 * Better deduplication / line endings normalization (Thanks to @tycho and @hops for pointers with this.)
 
