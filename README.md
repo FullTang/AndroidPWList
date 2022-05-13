@@ -2,6 +2,8 @@
 ---
 A small (>1GB) password list optimized for use against Android device passwords.
 
+<i> I do not condone, encourage, or support those who would use this information for malicious or illegal means.</i>
+
 ---
 
 ## Version 2
