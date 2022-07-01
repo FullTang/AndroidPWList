@@ -6,6 +6,23 @@ A small (>1GB) password list optimized for use against Android device passwords.
 
 ---
 
+## Version 3
+The following optimizations and improvements were made on top of Verson 2:
+
+* Changed the length of the passwords to be between 4 - 16 characters to support passcodes on all Android devices rather than just Samsung devices. 
+* Used Crunch (https://www.kali.org/tools/crunch/) to generate alphanumeric passcodes that were between 4 and 5 characters in length.
+
+Use the following Google Drive link to download the list. <br />
+https://drive.google.com/file/d/1A0DpSPFsYTsdHis14cfJrLhLn-DnQsr7/view?usp=sharing
+
+Name: Android_Passwords_v3.0.7z <br />
+Size: 391139232 bytes (373 MiB) <br />
+SHA1: 99A44FD153672375273956D3E19B7141B6BA0649 <br />
+SHA256: F27E60D34F48F3DFCE40267A1F5970EF71BE5184B05684F3C499CB246D1F6392 <br />
+
+
+---
+
 ## Version 2
 The following optimizations and improvements were made on top of Verson 1:
 
@@ -14,9 +31,6 @@ The following optimizations and improvements were made on top of Verson 1:
 * Better sorting of passwords by popularity with more common passwords at the top
 * Converted characters that escaped HTML back to their ASCII equivalents (Thanks to @tycho for pointing this out.)
 * Better deduplication / line endings normalization (Thanks to @tycho and @hops for pointers with this.)
-
-Use the following Google Drive link to download the list. <br />
-https://drive.google.com/file/d/1JedE-dAxKC3MRIcCBetfRznKf2HkKU8R/view?usp=sharing
 
 Name: Android_Passwords_v2.0.7z <br />
 Size: 382442921 bytes (364 MiB) <br />
