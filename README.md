@@ -9,8 +9,8 @@ A small (>1GB) password list optimized for use against Android device passwords.
 ## Version 3
 The following optimizations and improvements were made on top of Verson 2:
 
-* Changed the length of the passwords to be between 4 - 16 characters to support passcodes on all Android devices rather than just Samsung devices. 
-* Used Crunch (https://www.kali.org/tools/crunch/) to generate alphanumeric passcodes that were between 4 and 5 characters in length.
+* Recombined the previously mentioned wordlists and changed the length of the passwords to be between 4 - 16 characters to support alphanumeric passwords on all Android devices rather than just Samsung devices. 
+* Filled the remaining space (up to just under 1GB) with pseudorandom alphanumeric passcodes that are 4 and 5 characters in length.
 
 Use the following Google Drive link to download the list. <br />
 https://drive.google.com/file/d/1A0DpSPFsYTsdHis14cfJrLhLn-DnQsr7/view?usp=sharing
